@@ -87,6 +87,15 @@ The goal of this analysis is to understand player behavior, identify early frict
 
 ---
 
+
+
+## 🧠 Executive Summary
+
+This project analyzes the **early player journey in Safari City**, a flagship mobile game by **Maliyo Games**. It focuses on how players engage, drop off, and progress during the first ten levels — identifying behavioral patterns that affect retention, motivation, and monetization.  
+
+Findings show that most players disengage within their first few sessions due to **unclear tutorials**, **limited storytelling**, and **low feedback rewards**. To counter this, the study introduces a **player segmentation framework** and **data-driven recommendations** that target user motivations directly.  
+
+By implementing **personalized onboarding**, **milestone rewards**, and **dynamic feedback loops**, Safari City can reduce early drop-offs by up to **30%** and strengthen long-term player loyalty.
 ## 🧾 Key Insights
 ## 🧾 Key Insights
 
