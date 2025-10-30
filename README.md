@@ -45,12 +45,22 @@ The goal of this analysis is to understand player behavior, identify early frict
   - Lack of storytelling in early levels reduces engagement  
 - **Retention Impact:**  
   Improvements in onboarding, storytelling, and feedback could reduce early drop-offs by 20–30%.
+  🧩 Early Player Journey Funnel
+	•	Stages: Installation → Level 1 Gameplay → Building & Renovation → Color & Design → Levels 2–10 → Feedback & Improvement
+	•	Observations:
+	•	Onboarding confusion leads to early drop-offs (~50% risk)
+	•	Renovation and design tasks can frustrate perfectionist players
+	•	Audio and character introductions need improvement
+	•	Lack of storytelling in early levels reduces engagement
+	•	Retention Impact:
+Improvements in onboarding, storytelling, and feedback could reduce early drop-offs by 20–30%.
 
 <p align="center">
   <img src="images/early_player_journey.jpg" alt="Early Player Journey Funnel" width="700"/>
 </p>
 
 ---
+Visualization showing the early player journey from installation to level 10, highlighting key stages and potential drop-off points.
 
 ### 2. Player Segmentation Rationale
 - **Segmentation Types:** Behavioral, motivational, and progression-based  
@@ -64,13 +74,29 @@ The goal of this analysis is to understand player behavior, identify early frict
 - **Usefulness:**  
   - Tailored onboarding and rewards  
   - Segment-specific engagement and monetization strategies  
-  - Data-driven product development decisions  
+  - Data-driven product development decisions
+ 
+- 👥 Player Segmentation Rationale
+	•	Segmentation Basis: Behavioral, motivational, and progression-based
+	•	Player Types:
+	•	Casual Explorers: Seek light entertainment
+	•	Completionists: Achievement-focused
+	•	Creative Builders: Enjoy customization
+	•	Social Connectors: Value social interaction
+	•	Progression Hunters: Focus on advancement
+	•	Occasional Drop-Offs: At risk of leaving due to early friction
+	•	Usefulness:
+	•	Tailored onboarding and rewards
+	•	Segment-specific engagement and monetization strategies
+	•	Data-driven product and marketing decisions
 
 <p align="center">
   <img src="images/player_segmentation.jpg" alt="Player Segmentation Overview" width="700"/>
 </p>
 
 ---
+Segmentation map visualizing distinct player groups in Safari City, based on behavior, motivation, and progression patterns.
+
 
 ### 3. Data Analysis & Recommendations
 - **Findings:** Engagement patterns show a sharp drop after the first few sessions  
@@ -79,7 +105,20 @@ The goal of this analysis is to understand player behavior, identify early frict
   - Add milestone and event-based rewards  
   - Improve early gameplay tutorials and excitement  
   - Personalize re-engagement through notifications  
-  - Analyze loyal users to replicate successful experiences  
+  - Analyze loyal users to replicate successful experiences
+ 
+  - 📈 Data Analysis & Recommendations
+	•	Engagement Insights:
+	•	Player activity peaks early but drops sharply after the first few sessions
+	•	Most players disengage within the first week
+	•	A smaller loyal group remains active over 30 days
+	•	Streak rewards are not motivating enough for continuous play
+	•	Recommendations:
+	1.	Enhance streak rewards with dynamic bonuses
+	2.	Add milestone and event-based achievements
+	3.	Improve early tutorials for faster engagement
+	4.	Use personalized re-engagement messages
+	5.	Analyze loyal users to replicate their experience
 
 <p align="center">
   <img src="images/visualization_of_early_player_funnel.jpg" alt="Visualization of Early Player Funnel" width="700"/>
@@ -87,6 +126,7 @@ The goal of this analysis is to understand player behavior, identify early frict
 
 ---
 
+Line chart comparing 1-day, 7-day, and 30-day active users, showing early engagement decline and long-term retention patterns.
 
 
 ## 🧠 Executive Summary
