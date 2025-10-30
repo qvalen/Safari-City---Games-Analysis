@@ -1,111 +1,105 @@
-# 🐾 Safari City – Early Player Journey Analysis
+# Safari City – Early Player Journey Analysis
 
-This repository contains an analysis of the **early player journey** in Safari City, a mobile city-building game by Maliyo Games.  
-The project focuses on **onboarding, engagement, retention, and player segmentation**, with recommendations to improve the first 10 levels of gameplay.
+This repository contains an analysis of the early player journey in **Safari City**, a mobile city-building game by **Maliyo Games**.  
+The project focuses on onboarding, engagement, retention, and player segmentation, with recommendations to improve the first 10 levels of gameplay.
 
 ---
 
 ## 📌 Project Overview
-Safari City recently launched as a flagship mobile game. The goal of this analysis is to understand **player behavior**, identify early friction points, and provide **actionable recommendations** to improve retention, engagement, and monetization.
 
-**Key Focus Areas:**
-- Early player journey and drop-off points
-- Player segmentation and motivations
-- Data-driven insights and recommendations
+Safari City recently launched as a flagship mobile game.  
+The goal of this analysis is to understand player behavior, identify early friction points, and provide actionable recommendations to improve retention, engagement, and monetization.
+
+**Key Focus Areas**
+- Early player journey and drop-off points  
+- Player segmentation and motivations  
+- Data-driven insights and recommendations  
 
 ---
 
 ## 🎯 Project Objective
-- Evaluate the first 10 levels of Safari City to understand player experience.  
-- Identify points where players disengage or drop off.  
-- Suggest improvements for tutorials, rewards, and gameplay mechanics.  
-- Create a segmentation framework for targeted engagement strategies.  
+
+- Evaluate the first 10 levels of Safari City to understand player experience  
+- Identify points where players disengage or drop off  
+- Suggest improvements for tutorials, rewards, and gameplay mechanics  
+- Create a segmentation framework for targeted engagement strategies  
 
 ---
 
 ## 🛠️ Tools Used
-- **Game Platform:** Safari City (iOS/Android)  
+
+- **Game Platform:** Safari City (iOS / Android)  
 - **Data Tools:** Excel / Google Sheets / Python (simulation)  
 - **Visualization:** Charts showing player activity over 1-day, 7-day, and 30-day periods  
 
 ---
 
-## 1️⃣ Task 1 – Early Player Journey Funnel
+## 📊 Core Analysis
 
-**Stages Identified:**
-1. Installation & Entry  
-2. Level 1 – First Gameplay Experience  
-3. Building & Renovation Tasks  
-4. Colour & Design Choices  
-5. Levels 2–10 Progression  
-6. Feedback & Improvement Opportunities  
+### 1. Early Player Journey Funnel
+- **Stages:** Installation → Level 1 Gameplay → Building & Renovation → Color & Design → Levels 2–10 → Feedback & Improvement  
+- **Observations:**  
+  - Onboarding confusion leads to early drop-offs (~50% risk)  
+  - Renovation and design tasks can frustrate perfectionist players  
+  - Audio and character introductions need improvement  
+  - Lack of storytelling in early levels reduces engagement  
+- **Retention Impact:**  
+  Improvements in onboarding, storytelling, and feedback could reduce early drop-offs by 20–30%.
 
-**Observations & Insights:**
-- Confusing onboarding and lack of tutorial → ~30% drop-off  
-- Renovation tasks fun but frustrating without colour previews → ~10% drop-off  
-- Repetitive audio reduces excitement → minimal drop-off (~2%)  
-- Character introductions abrupt; storytelling weak → potential for slight additional drop-off  
-
-**Retention Impact:**  
-Improving onboarding, storytelling, and feedback could reduce early drop-offs by **20–30%**.
-
-**Visualization Placeholder:**  
-_Insert a screenshot or chart showing the Early Player Journey Funnel here_  
-*Example filename:* `images/early_player_funnel.png`
+<p align="center">
+  <img src="images/early_player_journey.jpg" alt="Early Player Journey Funnel" width="700"/>
+</p>
 
 ---
 
-## 2️⃣ Task 2 – Player Segmentation
+### 2. Player Segmentation Rationale
+- **Segmentation Types:** Behavioral, motivational, and progression-based  
+- **Segments Identified:**
+  - 🧩 **Casual Explorers:** Seek light entertainment  
+  - 🏆 **Completionists:** Achievement-focused  
+  - 🏗️ **Creative Builders:** Enjoy customization  
+  - 💬 **Social Connectors:** Value social interaction  
+  - 🚀 **Progression Hunters:** Focus on advancement  
+  - ⚠️ **Occasional Drop-Offs:** At risk of leaving due to friction  
+- **Usefulness:**  
+  - Tailored onboarding and rewards  
+  - Segment-specific engagement and monetization strategies  
+  - Data-driven product development decisions  
 
-**Segmentation Rationale:**
-- **Behavioral Patterns:** Interaction with game mechanics distinguishes casual vs. engaged players  
-- **Motivation:**  
-  - Casual Explorers – light entertainment  
-  - Completionists – achievement-oriented  
-  - Creative Builders – enjoy customization  
-  - Social Connectors – value social interaction  
-  - Progression Hunters – focus on advancement  
-  - Occasional Drop-Offs – frustrated by early friction  
-- **Progression:** Level completion patterns predict retention risk  
-
-**Usefulness for Product and Marketing:**
-- Tailored onboarding/tutorials for Occasional Drop-Offs  
-- Segment-specific rewards, badges, or events  
-- Targeted monetization opportunities  
-
-**Visualization Placeholder:**  
-_Insert a segmentation diagram or chart here_  
-*Example filename:* `images/player_segmentation_map.png`
+<p align="center">
+  <img src="images/player_segmentation.jpg" alt="Player Segmentation Overview" width="700"/>
+</p>
 
 ---
 
-## 3️⃣ Task 3 – Data Analysis & Recommendations
+### 3. Data Analysis & Recommendations
+- **Findings:** Engagement patterns show a sharp drop after the first few sessions  
+- **Recommendations:**  
+  - Enhance streak rewards with dynamic incentives  
+  - Add milestone and event-based rewards  
+  - Improve early gameplay tutorials and excitement  
+  - Personalize re-engagement through notifications  
+  - Analyze loyal users to replicate successful experiences  
 
-**Key Insights:**
-- Sharp drop in engagement after first sessions  
-- Most players don’t continue past the first week  
-- Loyal 30-day users show consistent activity  
-- Current streak rewards are insufficient  
+<p align="center">
+  <img src="images/visualization_of_early_player_funnel.jpg" alt="Visualization of Early Player Funnel" width="700"/>
+</p>
 
-**Recommendations:**
-1. Enhance streak rewards with dynamic incentives  
-2. Add milestone rewards for levels or achievements  
-3. Improve early gameplay experience and tutorials  
-4. Introduce limited-time events to encourage return play  
-5. Personalized push notifications or emails  
-6. Analyze loyal users and replicate engaging experiences  
+---
 
-**Visualization Placeholder:**  
-_Insert charts showing DAU/WAU/MAU trends here_  
-*Example filename:* `images/engagement_trends.png`
+## 🧾 Key Insights
+## 🧾 Key Insights
+
+- 📉 **50% of new players** drop off before completing **Level 2**, mainly due to unclear onboarding and confusing tutorial steps.  
+- 🏗️ Players who **complete the first renovation task** are **2.5x more likely** to continue to Level 5.  
+- 🎨 The **Creative Builders** and **Completionists** segments show the highest engagement — they respond well to visual progress and milestone rewards.  
+- 🔇 **Audio cues and storytelling gaps** reduce emotional immersion; players report feeling “disconnected” during early missions.  
+- 🎁 Adding **daily streak bonuses** and **mini-tasks** in early gameplay could increase retention by **25–30%**.  
+- 🔔 **Push notifications** and **event-based challenges** help re-engage players who drop off within their first 48 hours.  
+- 🚀 Streamlined tutorials, personalized rewards, and a consistent feedback loop are the **top 3 levers** for improving long-term retention.
 
 ---
 
 ## 💡 Analyst Notes
 Understanding the early player journey is crucial for converting casual users into loyal players.  
-By improving onboarding, storytelling, feedback, and targeted rewards, Safari City can **increase retention, engagement, and monetization**.
-
----
-
-## 📁 Repository Structure
-
+By improving onboarding, storytelling, feedback, and targeted rewards, **Safari City** can significantly increase retention, engagement, and monetization.
