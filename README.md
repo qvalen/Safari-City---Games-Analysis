@@ -3,7 +3,6 @@
 This repository contains an analysis of the early player journey in **Safari City**, a mobile city-building game by **Maliyo Games**.  
 The project focuses on onboarding, engagement, retention, and player segmentation, with recommendations to improve the first 10 levels of gameplay.
 
----
 
 ## 📌 Project Overview
 
@@ -15,7 +14,6 @@ The goal of this analysis is to understand player behavior, identify early frict
 - Player segmentation and motivations  
 - Data-driven insights and recommendations  
 
----
 
 ## 🎯 Project Objective
 
@@ -24,15 +22,13 @@ The goal of this analysis is to understand player behavior, identify early frict
 - Suggest improvements for tutorials, rewards, and gameplay mechanics  
 - Create a segmentation framework for targeted engagement strategies  
 
----
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Game Platform:** Safari City (iOS / Android)  
 - **Data Tools:** Excel / Google Sheets / Python (simulation)  
 - **Visualization:** Charts showing player activity over 1-day, 7-day, and 30-day periods  
 
----
 
 ## 📊 Core Analysis
 
@@ -59,7 +55,6 @@ Improvements in onboarding, storytelling, and feedback could reduce early drop-o
   <img src="images/early_player_journey.jpg" alt="Early Player Journey Funnel" width="700"/>
 </p>
 
----
 Visualization showing the early player journey from installation to level 10, highlighting key stages and potential drop-off points.
 
 ### 2. Player Segmentation Rationale
@@ -94,37 +89,34 @@ Visualization showing the early player journey from installation to level 10, hi
   <img src="images/player_segmentation.jpg" alt="Player Segmentation Overview" width="700"/>
 </p>
 
----
 Segmentation map visualizing distinct player groups in Safari City, based on behavior, motivation, and progression patterns.
 
 
 ### 3. Data Analysis & Recommendations
 - **Findings:** Engagement patterns show a sharp drop after the first few sessions  
 - **Recommendations:**  
-  - Enhance streak rewards with dynamic incentives  
-  - Add milestone and event-based rewards  
-  - Improve early gameplay tutorials and excitement  
-  - Personalize re-engagement through notifications  
-  - Analyze loyal users to replicate successful experiences
- 
-  - 📈 Data Analysis & Recommendations
-	•	Engagement Insights:
-	•	Player activity peaks early but drops sharply after the first few sessions
-	•	Most players disengage within the first week
-	•	A smaller loyal group remains active over 30 days
-	•	Streak rewards are not motivating enough for continuous play
-	•	Recommendations:
-	1.	Enhance streak rewards with dynamic bonuses
-	2.	Add milestone and event-based achievements
-	3.	Improve early tutorials for faster engagement
-	4.	Use personalized re-engagement messages
-	5.	Analyze loyal users to replicate their experience
+- Enhance streak rewards with dynamic incentives
+- Add milestone and event-based rewards  
+- Improve early gameplay tutorials and excitement  
+- Personalize re-engagement through notifications  
+- Analyze loyal users to replicate successful experiences
+
+- 📈 Data Analysis & Recommendations
+•	Engagement Insights:
+•	Player activity peaks early but drops sharply after the first few sessions
+•	Most players disengage within the first week
+•	A smaller loyal group remains active over 30 days
+•	Streak rewards are not motivating enough for continuous play
+•	Recommendations:
+1.	Enhance streak rewards with dynamic bonuses
+2.	Add milestone and event-based achievements
+3.	Improve early tutorials for faster engagement
+4.	Use personalized re-engagement messages
+5.	Analyze loyal users to replicate their experience
 
 <p align="center">
   <img src="images/visualization_of_early_player_funnel.jpg" alt="Visualization of Early Player Funnel" width="700"/>
 </p>
-
----
 
 Line chart comparing 1-day, 7-day, and 30-day active users, showing early engagement decline and long-term retention patterns.
 
@@ -137,7 +129,6 @@ Findings show that most players disengage within their first few sessions due to
 
 By implementing **personalized onboarding**, **milestone rewards**, and **dynamic feedback loops**, Safari City can reduce early drop-offs by up to **30%** and strengthen long-term player loyalty.
 ## 🧾 Key Insights
-## 🧾 Key Insights
 
 - 📉 **50% of new players** drop off before completing **Level 2**, mainly due to unclear onboarding and confusing tutorial steps.  
 - 🏗️ Players who **complete the first renovation task** are **2.5x more likely** to continue to Level 5.  
@@ -147,7 +138,6 @@ By implementing **personalized onboarding**, **milestone rewards**, and **dynami
 - 🔔 **Push notifications** and **event-based challenges** help re-engage players who drop off within their first 48 hours.  
 - 🚀 Streamlined tutorials, personalized rewards, and a consistent feedback loop are the **top 3 levers** for improving long-term retention.
 
----
 
 ## 💡 Analyst Notes
 Understanding the early player journey is crucial for converting casual users into loyal players.  
